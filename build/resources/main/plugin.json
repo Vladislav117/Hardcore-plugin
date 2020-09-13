@@ -1,0 +1,7 @@
+{
+  "name": "RPWPlugin",
+  "author": "Vladislav117",
+  "main": "serv.Serv",
+  "description": "Just a plugin.",
+  "version": 1.0
+}
